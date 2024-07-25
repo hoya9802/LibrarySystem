@@ -8,7 +8,7 @@
 
 ## Dataset
  - [ID.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/ID.csv) : ID / PW / NAME / GEN / AGE / AUTH(ADMIN: 관리자계정, GUEST: 일반계정)
- - [book.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/book.csv) : BOOK_ISBN	/ BOOK_TITLE	/ BOOK_AUTHOR	/ BOOK_PUB / BOOK_PRICE /	STATUS(available(대출가능), unavailable(대출불가)
+ - [book.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/book.csv) : BOOK_ISBN	/ BOOK_TITLE	/ BOOK_AUTHOR	/ BOOK_PUB / BOOK_PRICE /	STATUS(available(대출가능), unavailable(대출불가))
  - [check_in_out.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/check_in_out.csv) : ID /	BOOK /	EXPIRATION(대출 당일부터 14일까지)
 
 ## File Structure
