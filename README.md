@@ -1,4 +1,4 @@
-# LibrarySystem [Personal Project]
+# LibrarySystemV.1.0 [Personal Project]
 
 ## Library of Implementation
  - tkinter, pandas, csv, datetime
