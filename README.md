@@ -11,6 +11,11 @@
  - [book.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/book.csv) : BOOK_ISBN	/ BOOK_TITLE	/ BOOK_AUTHOR	/ BOOK_PUB / BOOK_PRICE /	STATUS(available(대출가능), unavailable(대출불가))
  - [check_in_out.csv](https://github.com/hoya9802/LibrarySystem/blob/main/data/check_in_out.csv) : ID /	BOOK /	EXPIRATION(대출 당일부터 14일까지)
 
+## The Overall Structure
+<p align="center">
+<img width="770" alt="스크린샷 2024-07-25 오후 12 59 13" src="https://github.com/user-attachments/assets/99262b4d-9275-48eb-96fc-1d9681fc6d85">
+</p>
+
 ## File Structure
 ### add.py
   - 도서 대출 파일입니다.
